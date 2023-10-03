@@ -1,0 +1,7 @@
+D:\New folder\TugasPBO(TM)\bin\Debug\TugasPBO(TM).exe.config
+D:\New folder\TugasPBO(TM)\bin\Debug\TugasPBO(TM).exe
+D:\New folder\TugasPBO(TM)\bin\Debug\TugasPBO(TM).pdb
+D:\New folder\TugasPBO(TM)\obj\Debug\TugasPBO(TM).csproj.AssemblyReference.cache
+D:\New folder\TugasPBO(TM)\obj\Debug\TugasPBO(TM).csproj.CoreCompileInputs.cache
+D:\New folder\TugasPBO(TM)\obj\Debug\TugasPBO(TM).exe
+D:\New folder\TugasPBO(TM)\obj\Debug\TugasPBO(TM).pdb
